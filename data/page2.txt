@@ -1,0 +1,36 @@
+<section class="app">
+    <div class="headline">
+      <h2 class="title">Daily JS</h2>
+      <p class="subtitle">GET THE JAVASCRIPT WEEKLY DIGEST</p>
+    </div>
+    <div class="app__wrap">
+      <div class="app__img">
+        <img src="img/img1.png" alt="phone">
+      </div>
+      <div class="app__content">
+        <h3 class="app__title">Tips & Tricks for your React-Redux Application</h3>
+        <span class="app__subtitle">This assumes you are familiar with the flow of React & Redux</span>
+        <span class="app__author">Shaun Michael Stone</span>
+        <p class="app__text">
+          If you are accustomed to building React applications with Redux, you’ll know there is a lot of associated
+          boilerplate. When implementing a feature, it usually involves the following steps.
+
+          Build a component and determine the state/data that is needed for our component to function correctly.
+          Once we have the state we need, we map our Component’s state to props passed from the store.
+          To get that state — in our case it’s a collection of users — we’ll need to call an API endpoint provided from
+          the backend guys. This means we need to trigger an action with a dispatch in our Component.
+          Our Redux saga middleware listens for this action and then makes a request to our API service to fetch the
+          users when the action has been fired.
+          When the saga has finished making the call and it was successful, it will trigger an effect with a new
+          success action. The reducer will then update the store with the people list. The Component is now aware of
+          the change of props and will re-render with the new state retrieved.
+          We created a simple create-react-app for this ‘People’ application. It will render a list of people. Simplez…
+          (Try to make the sound the meerkat makes on the adverts but fail miserably).
+
+          We added a Header and Panel component, but our focus is on a component called PeopleList that will just
+          render an array of people to the browser. While we are waiting for the data from the API, we’ll show a
+          loading animation.
+        </p>
+      </div>
+    </div>
+  </section>

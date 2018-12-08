@@ -1,0 +1,88 @@
+<section class="gallery">
+    <div class="headline">
+      <h2 class="title">Gallery JS</h2>
+      <p class="subtitle">Gallery OF JAVASCRIPT WEEKLY DIGEST</p>
+    </div>
+    <div class="gallery__wrap">
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art1.png" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art2.jpeg" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art3.jpeg" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art4.jpeg" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art5.png" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art6.png" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art7.png" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+      <div class="gallery__item">
+        <div class="gallery__box">
+          <img src="img/art8.png" alt="">
+          <span class="gallery__inner">
+            <a href="" class="gallery__link">
+              <i class="fas fa-book-open gallery__icon"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>

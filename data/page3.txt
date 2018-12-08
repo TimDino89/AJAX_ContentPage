@@ -1,0 +1,40 @@
+<section class="article">
+
+      <div class="headline">
+          <h2 class="title">Weekly News JS</h2>
+          <p class="subtitle">MOST VIEWED ARTICLES</p>
+        </div>
+    <div class="article__row">
+      <div class="article__img">
+        <img src="img/art1.png" alt="art1">
+      </div>
+      <div class="article__content">
+        <h3 class="article__title">Goodbye Electron, Hello Desktop PWAs</h3>
+        <span class="article__subtitle">Chrome v70’s recent announcement</span>
+        <p class="article__text">Although we will not cover PWAs in depth I recommend you read up on Google’s Documentation to provide an awesome intro. To see some rich examples and get your hands on what it feels like to use a PWA, hop on Chrome on Android, or Safari on iOS(Partial Support) and check out these examples. I recommend watching the Chrome announcement below.</p>
+        <a href="" class="article__link">Read more...</a>
+      </div>
+    </div>
+    <div class="article__row">
+      <div class="article__img">
+        <img src="img/art2.jpeg" alt="art2">
+      </div>
+      <div class="article__content">
+        <h3 class="article__title">Functional JS #2: Functions. Duh!</h3>
+        <span class="article__subtitle">This is a second part of the “Functional JS” series. Go to the beginning of the series here.</span>
+        <p class="article__text">Although we will not cover PWAs in depth I recommend you read up on Google’s Documentation to provide an awesome intro. To see some rich examples and get your hands on what it feels like to use a PWA, hop on Chrome on Android, or Safari on iOS(Partial Support) and check out these examples. I recommend watching the Chrome announcement below.</p>
+        <a href="" class="article__link">Read more...</a>
+      </div>
+    </div>
+    <div class="article__row">
+      <div class="article__img">
+        <img src="img/art3.jpeg" alt="art1">
+      </div>
+      <div class="article__content">
+        <h3 class="article__title">Patching the Vue.js Virtual DOM: The need, the explanation and the solution</h3>
+        <span class="article__subtitle">This is a common pattern, here is a mockup to see what I am talking about.</span>
+        <p class="article__text">Although we will not cover PWAs in depth I recommend you read up on Google’s Documentation to provide an awesome intro. To see some rich examples and get your hands on what it feels like to use a PWA, hop on Chrome on Android, or Safari on iOS(Partial Support) and check out these examples. I recommend watching the Chrome announcement below.</p>
+        <a href="" class="article__link">Read more...</a>
+      </div>
+    </div>
+  </section>
